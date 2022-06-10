@@ -9,6 +9,7 @@ In particular, our model properly blends the strengths of CNN and ViT. In this r
 The results in the limited experimental environment show that our model performs better than the latest models.
 
 See below for details.
+
 [Report(Written in Korean)](https://github.com/ysj9909/Vision_Backbone_projects/blob/main/LeCT_report.pdf)
 
 ## Model
