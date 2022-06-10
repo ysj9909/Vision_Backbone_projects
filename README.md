@@ -26,6 +26,6 @@ See below for details.
 
 ----
 The baselines code is heaviliy based on official code.
-[ConvNeXt](https://github.com/facebookresearch/ConvNeXt/blob/main/models/convnext.py)
-[CeiT](https://github.com/coeusguo/ceit/blob/main/ceit_model.py)
+[ConvNeXt](https://github.com/facebookresearch/ConvNeXt/blob/main/models/convnext.py), 
+[CeiT](https://github.com/coeusguo/ceit/blob/main/ceit_model.py), 
 [AlterNet](https://github.com/xxxnell/how-do-vits-work/blob/transformer/models/alternet.py)
