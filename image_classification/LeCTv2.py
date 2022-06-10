@@ -376,3 +376,5 @@ class LocallyEnhancedConvTransformer(nn.Module):
         x = self.forward_features(x)
         x = self.head(x)
         return x
+
+model = LocallyEnhancedConvTransformer(num_classes = 10).to(device)
