@@ -5,7 +5,7 @@ In this situation, what I felt while looking at the studies on several pure mode
 In particular, our model properly blends the strengths of CNN and ViT. In this report, we propose a model called Locally enhanced Convolutional Transformer (LeCT). There are three main strengths of the Locally enhanced Attention module used in this model that distinguish it from the existing Attention module.
 1) Calculates the projection to query, key, and value “Sequentially” using convolution. Through this, attention can be performed through a locally reinforced representation.
 2) Utilizes Long-range features and local features simultaneously through convolutional skip connection and multi-head self-attention using local features.
-3) has linear computational complexity with respect to sequence length by utilizing inductive bias that correlation between adjacent pixels on 2D image is high
+3) has linear computational complexity with respect to sequence length by utilizing inductive bias that correlation between adjacent pixels on 2D image is high.
 The results in the limited experimental environment show that our model performs better than the latest models.
 
 See below for details.
